@@ -1,0 +1,7 @@
+﻿  ConsoleGames.cpp
+C:\Users\User\source\repos\ConsoleGames\ConsoleGames\ConsoleGames.cpp(134,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DDD.cpp
+C:\Users\User\source\repos\ConsoleGames\ConsoleGames\ConsoleGames.cpp(167,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\User\source\repos\ConsoleGames\ConsoleGames\DDD.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleGames.vcxproj -> C:\Users\User\source\repos\ConsoleGames\x64\Debug\ConsoleGames.exe
